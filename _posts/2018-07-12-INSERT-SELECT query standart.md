@@ -2,7 +2,7 @@
 layout: post
 title: "INSERT-SELECT 쿼리 표준"
 date: 2018-07-12 16:08
-tag: [slq],[query]
+tag: [slq, query]
 ---
 SELECT문으로 조회한 데이트를 INSERT 할 때,
 ~~~
