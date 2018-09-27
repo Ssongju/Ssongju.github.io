@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 리눅스 mount 에러
-date: 2018-09-19 15:15:00
+date: 2018-09-27 15:15:00
 tag: [centos, mount]
 ---
 학원 다니면서 공부하던 pdf 파일을 다시 보면서 공부를 하고 있다.
@@ -22,7 +22,7 @@ mkfs
   -t[종류] : 파일 시스템의 종류 선택(ext3, ext4 ...)
   -c : 파일시스템 생성 전에 bad block을 검사(베드섹터를 검사하는듯?)
   -v : 작업 상태와 결과를 자세하게 출력함
-  
+
 ex)
 ~~~
 mkfs -t ext4 /dev/sdb1
